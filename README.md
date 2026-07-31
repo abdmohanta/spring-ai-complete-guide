@@ -1,2 +1,1 @@
-# spring-ai-complete-guide
-spring-ai-complete-guide
+A comprehensive Spring AI learning repository covering LLM integration, Prompt Engineering, RAG, Vector Databases, Chat Memory, Tool Calling, MCP, AI Agents, Image Generation, Audio Processing, and production-ready Spring Boot AI applications.
