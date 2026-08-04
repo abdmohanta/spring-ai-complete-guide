@@ -866,23 +866,11 @@ Example
 
 ```
 
-Explain Spring Boot.
-
-```
-
----
-
 # Types of Prompts
 
 ## Zero Shot Prompt
 
 ```
-
-Explain Dependency Injection.
-
-```
-
----
 
 ## One Shot Prompt
 
